@@ -15,7 +15,7 @@ const NavBar = () => {
             </Nav>
           </Navbar.Text>
         </Navbar.Collapse>
-      </Container>
+        </Container>
     </Navbar>
   );
 };
